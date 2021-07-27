@@ -23,10 +23,8 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 1. Insert the configured SD card into the Jetson Nano module
 
 2. Power on by plugging the USB barrel plug adapter into the USB battery pack
-3. Connect your Windows, Linux, or Mac machine to the Jetson Nano via micro USB
 
-4. On your Windows, Linux, or Mac machine, open a browser and navigate to ``192.168.55.1:8888``
-5. Sign in using the default password ``jetson``
+3. Sign in using the default password ``jetson``
 
 ## Step 2 - Connect JetRacer to WiFi
 
