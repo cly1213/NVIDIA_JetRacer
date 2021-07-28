@@ -14,7 +14,12 @@ In this example we'll show how to control JetRacer programatically from a web br
 3. Browse to the folder ``~/jetracer/notebooks`` in the Jupyter Lab file browser
 4. Run through the notebook ``basic_motion.ipynb``
 
-## Example 2 - Road Following
+## Example 2 - Remote Control
+
+1. Open and follow the notebook ``teleoperation.ipynb``
+
+
+## Example 3 - Road Following
 
 ### Step 1 - Open the interactive trainer
 

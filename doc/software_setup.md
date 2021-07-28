@@ -10,6 +10,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 4. Remove the SD card from the desktop machine
 
 ### Latest Release (** **but not yet fully verified** ** )
+> 6/01/2021 - JetPack 4.5.1 based image is updated. It is pre-configured for JetRacer.
 
 > Please note, the password for the pre-built SD card is ``jetson``
 
